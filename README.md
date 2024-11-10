@@ -9,6 +9,6 @@ Hi there! Welcome to my GitHub profile.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakSreypov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrakSreypov&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PrakSreypov&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
